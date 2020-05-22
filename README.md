@@ -1,5 +1,5 @@
 # Links
-Most of them are tutorials, not news. Fell free to submit any thought issues.
+Most of them are tutorials, not news. Fell free to submit any, just open an issue - no PR necessary.
 
 # Cloud Computing
 
