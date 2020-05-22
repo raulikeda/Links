@@ -13,6 +13,8 @@ https://opensource.com/article/20/5/cicd-best-practices
 
 https://ubuntu.com/blog/building-a-raspberry-pi-cluster-with-microk8s
 
+https://github.com/trimstray/the-book-of-secret-knowledge
+
 https://microstack.run/
 
 https://microk8s.io/
