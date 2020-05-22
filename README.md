@@ -1,5 +1,5 @@
 # Links
-Links Gerais para o Futuro
+Most of them are tutorials, not news. Fell free to submit any thought issues.
 
 # Data Science
 
@@ -33,6 +33,16 @@ https://www.2stacks.net/blog/bare-metal-to-kubernetes-part-1/
 
 https://ubuntu.com/blog/taking-octavia-for-a-ride-with-kubernetes-on-openstack
 
+https://opensource.com/article/20/5/cicd-best-practices
+
+https://ubuntu.com/blog/building-a-raspberry-pi-cluster-with-microk8s
+
+https://microstack.run/
+
+https://microk8s.io/
+
+https://cdk8s.io/
+
 # Quant Finance
 
 https://datascience.quantecon.org/?fbclid=IwAR21ICaewdKKX-nJa_tcwteR638a3BOm_MOBxhIw1-E5jw5ZmOXXiRg9ZBI
@@ -61,6 +71,8 @@ https://hackernoon.com/20-blockchain-use-cases-for-2018-you-should-know-f7d2919c
 
 # General
 
+https://github.com/danistefanovic/build-your-own-x
+
 https://opensource.com/article/20/4/open-source-css-frameworks
 
 https://nvie.com/posts/a-successful-git-branching-model/
@@ -70,3 +82,5 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 https://www.slavevoyages.org/voyage/downloadsa
 
 http://www.cs.virginia.edu/~evans/cs216/guides/x86.html#registers
+
+https://docs.google.com/spreadsheets/d/1hT1qbNtwCUNUI6n8_46u43rt1E4F-2N38EnPWNCSN6g/edit#gid=0
