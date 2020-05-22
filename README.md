@@ -77,6 +77,12 @@ https://hackernoon.com/20-blockchain-use-cases-for-2018-you-should-know-f7d2919c
 
 https://github.com/danistefanovic/build-your-own-x
 
+http://www.deeplearningbook.org/contents/linear_algebra.html
+
+https://www.people.vcu.edu/~rhammack/BookOfProof/
+
+
+
 https://opensource.com/article/20/4/open-source-css-frameworks
 
 https://nvie.com/posts/a-successful-git-branching-model/
