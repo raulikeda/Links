@@ -1,6 +1,24 @@
 # Links
 Most of them are tutorials, not news. Fell free to submit any thought issues.
 
+# Cloud Computing
+
+https://aws.amazon.com/pt/blogs/architecture/scale-your-web-application-one-step-at-a-time/
+
+https://www.2stacks.net/blog/bare-metal-to-kubernetes-part-1/
+
+https://ubuntu.com/blog/taking-octavia-for-a-ride-with-kubernetes-on-openstack
+
+https://opensource.com/article/20/5/cicd-best-practices
+
+https://ubuntu.com/blog/building-a-raspberry-pi-cluster-with-microk8s
+
+https://microstack.run/
+
+https://microk8s.io/
+
+https://cdk8s.io/
+
 # Data Science
 
 https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7
@@ -25,27 +43,7 @@ https://towardsdatascience.com/a-start-to-finish-guide-to-building-deep-neural-n
 
 https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83
 
-# Cloud Computing
-
-https://aws.amazon.com/pt/blogs/architecture/scale-your-web-application-one-step-at-a-time/
-
-https://www.2stacks.net/blog/bare-metal-to-kubernetes-part-1/
-
-https://ubuntu.com/blog/taking-octavia-for-a-ride-with-kubernetes-on-openstack
-
-https://opensource.com/article/20/5/cicd-best-practices
-
-https://ubuntu.com/blog/building-a-raspberry-pi-cluster-with-microk8s
-
-https://microstack.run/
-
-https://microk8s.io/
-
-https://cdk8s.io/
-
 # Quant Finance
-
-https://datascience.quantecon.org/?fbclid=IwAR21ICaewdKKX-nJa_tcwteR638a3BOm_MOBxhIw1-E5jw5ZmOXXiRg9ZBI
 
 https://towardsdatascience.com/yet-another-an-end-to-end-time-series-project-tutorial-37390bcea38e
 
@@ -56,6 +54,10 @@ https://towardsdatascience.com/combine-lstm-and-var-for-multivariate-time-series
 https://towardsdatascience.com/modelling-volatile-time-series-with-lstm-networks-51250fb7cfa3
 
 https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a21e638
+
+https://finnhub.io/
+
+https://datascience.quantecon.org/
 
 https://www.alphavantage.co/documentation/
 
