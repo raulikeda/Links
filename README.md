@@ -57,6 +57,8 @@ https://towardsdatascience.com/modelling-volatile-time-series-with-lstm-networks
 
 https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a21e638
 
+https://mlfinlab.readthedocs.io/en/latest/#
+
 https://finnhub.io/
 
 https://datascience.quantecon.org/
