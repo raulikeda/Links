@@ -59,6 +59,8 @@ https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a
 
 https://towardsdatascience.com/hyperparameter-optimization-in-python-part-0-introduction-c4b66791614b
 
+http://analytics-magazine.org/the-hurst-exponent-predictability-of-time-series/
+
 https://mlfinlab.readthedocs.io/en/latest/#
 
 https://finnhub.io/
