@@ -57,6 +57,8 @@ https://towardsdatascience.com/modelling-volatile-time-series-with-lstm-networks
 
 https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a21e638
 
+https://towardsdatascience.com/hyperparameter-optimization-in-python-part-0-introduction-c4b66791614b
+
 https://mlfinlab.readthedocs.io/en/latest/#
 
 https://finnhub.io/
